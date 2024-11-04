@@ -2,7 +2,7 @@ n = int(input())
 unifroms = []
 
 for i in range(n):
-    unifroms.append(input().split())
+    unifroms.append(input().split(" "))
 
 counter = 0
 
